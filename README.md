@@ -1,4 +1,4 @@
-<h1>Constructing quotient groups using the coset representatives construction</h1>
+<h1>Constructing quotient groups using coset representatives</h1>
 
 <h2>Description</h2>
 
